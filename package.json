@@ -1,0 +1,15 @@
+{
+  "name": "autodidact",
+  "version": "1.0.0",
+  "description": "Teach yourself anything with Autodidactism: a free map of topics with the best resources for each.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["autodidact", "learning", "education"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
